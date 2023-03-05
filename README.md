@@ -1,0 +1,2 @@
+# Gotext
+simple text editor
