@@ -1,0 +1,21 @@
+{
+  "name": "GoText",
+  "productName": "gotext",
+  "description": "A simple text editor",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Gobrowse and Co",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "git-auto-updater": "0.0.5"
+  },
+  "devDependencies": {
+    "electron": "23.1.2"
+  },
+  "build": {
+    "icon": "build/gb.ico"
+  }
+}
